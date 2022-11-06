@@ -1,0 +1,25 @@
+{
+  "cowId": 0,
+  "nickName": "rootCow",
+  "sibling": null,
+  "childCow": {
+    "cowId": 1,
+    "nickName": "Фрося",
+    "sibling": null,
+    "childCow": {
+      "cowId": 2,
+      "nickName": "Машка Фроськина дочь",
+      "sibling": {
+        "cowId": 3,
+        "nickName": "Люська Фроськина",
+        "sibling": null,
+        "childCow": null,
+        "alive": true
+      },
+      "childCow": null,
+      "alive": true
+    },
+    "alive": true
+  },
+  "alive": true
+}
